@@ -1,6 +1,6 @@
 body {
     background-color: red;
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: white;
     text-align: center;
 }
